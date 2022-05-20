@@ -1,0 +1,62 @@
+
+.grey
+{
+  background-color: rgb(216, 216, 216);
+  width: 600px;
+  margin:auto;
+  padding: 30px;
+  margin-top: 20px;
+}
+.yellow
+{
+  background-color: orange;
+  width: 600px;
+  margin:auto;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.image
+{
+  width: 50px;
+  height: 50px;
+}
+.fchild
+{
+  
+  display: flex;
+  justify-content: space-between;
+}
+.fchild h3
+{
+  line-height: 0px;
+  font-size: 20px;
+}
+.fchild h4
+{
+  line-height: 0px;
+  font-size: 20px;
+}
+
+.button>button
+{
+  background-color: black;
+  padding: 10px;
+  font-size: larger;
+  color: white;
+}
+.button
+{
+  margin-top: 10px;
+}
+.heading>h3
+{
+  line-height: 13px;
+  font-size: 40px;
+}
+
+.fa-solid
+{
+  margin-top: 20px;
+  font-size: 30px;
+}
